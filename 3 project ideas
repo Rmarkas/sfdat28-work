@@ -1,0 +1,22 @@
+
+Idea 1
+
+I'm planning to take raw text and running a sentient analysis to determine if the comments are positive or negative 
+Stretch goal: Take the binary outcome (Postive/Negative) and build classifications to determine groupings of these comments (Histogram)
+I have survey data from eBay that I will be pulling from our data warehosue 
+I chose this topic because this is something that is relevant to my current product and is currently a manual process (interns)
+
+Idea 2 
+
+I would like to determine the likelihood for an animal to get adopted in an animal shelter 
+I will likely scrape the data from the SPCA website or obtain data from Auburn University 
+This is important to me becuase my fiancee is a fourth year verterinary student. We often have a difficult time talking about my work interests
+because it is over her head and she does not understand it. This would be an awesome way to demonstrate what I do to her, as well as 
+provide the shelter she works for a valuable tool to monitor their intake/adoption rate 
+
+Idea 3
+
+I would like to build a model that predicts sales forecats baesd on historical sales trends
+The data would be obtained from the ebay data warehosue 
+I find this intersting becuase my product team struggles with accurate forecasting and has almost given up on doing so. This will allow me the opportunity 
+to bring analtical rigor back into the forecasting process 
